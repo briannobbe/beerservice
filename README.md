@@ -1,2 +1,2 @@
-# deploy2prod
-This repository will simulate the source code control system for a service and API project to deploy
+# beerservice
+This repository contains all the deployment artifacts for the beerservice to be deployed to Production
